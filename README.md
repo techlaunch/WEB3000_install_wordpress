@@ -41,10 +41,10 @@ add your database name, user and pass
 create a wordpress admin account
 
 ## 8) REMOVE FTP INSTALLS (OPTIONAL)
-nano wp-config.php
-add to the end of the line:
+nano wp-config.php 
+add to the end of the line: 
 ```
 define('FS_METHOD', 'direct');
 ```
-CONTROL+O to save
-CONTROL+X to exit
+CONTROL+O to save 
+CONTROL+X to exit 
